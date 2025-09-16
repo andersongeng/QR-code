@@ -21,8 +21,8 @@ This is a simple QR Code component project built with HTML & CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](soon)
-- Live Site URL: [Add live site URL here](soon)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-page-z71QqSA2Wt)
+- Live Site URL: [Add live site URL here](https://andersongeng.github.io/QR-code/)
 
 ## My process
 
